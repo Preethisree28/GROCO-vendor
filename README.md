@@ -1,5 +1,5 @@
 # GROCO-vendor
-An multi vendor grocery app made with flutter and dart for the vendors continuing with the GROCO series(In Progress)
+An multi vendor grocery app made with flutter and dart for the vendors continuing with the GROCO series(In Progress) with firebase as its backend
 ![V6](https://user-images.githubusercontent.com/97854457/182932401-2809a7d3-699e-4931-8a26-ee162c43d74a.jpeg)
 ![V5](https://user-images.githubusercontent.com/97854457/182932409-1254c915-1005-4ae7-b833-6adcf65ec500.jpeg)
 ![V3](https://user-images.githubusercontent.com/97854457/182932433-37ea62d1-635c-4e9b-9b3c-2d7ff34f2a95.jpeg)
